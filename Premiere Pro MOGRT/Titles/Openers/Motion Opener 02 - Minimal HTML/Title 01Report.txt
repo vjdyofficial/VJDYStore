@@ -1,0 +1,77 @@
+Report created: 
+	29 Apr 2025	13:49:26
+
+Project name: Title 01.aep
+
+Source files collected to: 
+	C:\Users\Vinscent Joshua\AppData\Local\Temp\aegraphic\ee5c7b96-3d9e-4a38-86ea-dd0c8fe8eb9d\collectprj
+
+Source files collected: For target comp
+
+Collected comps:  
+	Title 01
+	Frame
+	Checkerboard
+	Text 01
+	Code Text BG
+	Scribble
+	Text 02
+	Text Build
+	Map Gradient
+	Map Texturized Lines
+	Noise
+	Title 01 Settings
+	
+Number of collected files:  13
+
+Size of collected files:  949 KB
+
+Collected source files: 
+	Sequence "Untitled_Artwork-[1-13].png" at F:\Documents\Premiere Pro MOGRT\extracted\title-1\(Footage)\Title 01\Footage\02 with 13 files and 0 auxiliary files
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  18
+
+Effect:  Checkbox Control
+	
+Effect:  Checkerboard
+	
+Effect:  Color Control
+	
+Effect:  Directional Blur
+	
+Effect:  Displacement Map
+	
+Effect:  Fill
+	
+Effect:  Gradient Ramp
+	
+Effect:  Grid
+	
+Effect:  Invert
+	
+Effect:  Motion Tile
+	
+Effect:  Offset
+	
+Effect:  Point Control
+	
+Effect:  Posterize
+	
+Effect:  Roughen Edges
+	
+Effect:  Set Matte
+	
+Effect:  Slider Control
+	
+Effect:  Turbulent Displace
+	
+Effect:  Venetian Blinds
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “VJDY Roboto Mono”, Font style: “Bold”
+
